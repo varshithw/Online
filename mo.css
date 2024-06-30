@@ -1,0 +1,12 @@
+body{
+    background-image: url(bird.jpg);
+    background-size: cover;
+    background-position: center;
+}
+div{
+    background-color: aquamarine;
+    border: 1px solid;
+    width: 300px;
+    margin: 225px;
+    padding: 25px;
+}
